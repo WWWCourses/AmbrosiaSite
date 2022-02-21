@@ -16,14 +16,14 @@ header {
     position: absolute;
     top: .5em;
     left: .5em;
-    height: 15vh;
-    width: 15vh;
+    height: 7em;
+    width: 7em;
   }
 
   #site_description {
     position: absolute;
     top: 1.2em;
-    left: 7em;
+    left: 8em;
     font-size: 1em;
   }
 
@@ -39,7 +39,7 @@ header {
   }
 
   .main-menu:hover{
-    cursor: pointer;  
+    cursor: pointer;
   }
   /* Style the list inside the menu */
   .main-menu>ul>li {
@@ -79,5 +79,5 @@ header {
     font-weight: bold;
     background-color: rgb(238, 172, 85);
   }
-  
-  
+
+
